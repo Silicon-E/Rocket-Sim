@@ -1,0 +1,6 @@
+	MATERIALS:
+titanium (TODO: chemical formula)
+tungsten (TODO: chemical formula)
+TODO: solid fuel (TODO: chemical formula)
+RP1 (TODO: chemical formula)
+Liquid Oxygen (O2)
